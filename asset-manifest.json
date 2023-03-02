@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Coffee-shop/static/css/main.e8abc2e6.css",
+    "main.js": "/Coffee-shop/static/js/main.26553ddb.js",
+    "static/media/ethiopia.png": "/Coffee-shop/static/media/ethiopia.14ea18e6b6d309fd02b7.png",
+    "static/media/brazil.png": "/Coffee-shop/static/media/brazil.df77c4fd8129e3babe4e.png",
+    "static/media/colombia.png": "/Coffee-shop/static/media/colombia.79fc28967436c987f111.png",
+    "index.html": "/Coffee-shop/index.html",
+    "main.e8abc2e6.css.map": "/Coffee-shop/static/css/main.e8abc2e6.css.map",
+    "main.26553ddb.js.map": "/Coffee-shop/static/js/main.26553ddb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8abc2e6.css",
+    "static/js/main.26553ddb.js"
+  ]
+}
